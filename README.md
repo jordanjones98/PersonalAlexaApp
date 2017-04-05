@@ -13,3 +13,7 @@ and if something is super cool then I will put it into a separate skill.
 
 ## Skill link
 Coming soon!
+
+## Credits
+Thanks to https://www.programmableweb.com which is where I am searching for, and
+finding these API's.
